@@ -1,0 +1,8 @@
+Accuracy -- 83.07936507936509
+Contingency Table -- {[neutral, TP]=151.0, [positive, FP]=139.6, [negative, FN]=90.80000000000001, [positive, TP]=511.4, [negative, TP]=384.4, [negative, FP]=57.400000000000006, [positive, FN]=39.4, [neutral, FN]=83.0, [positive, TN]=569.6, [neutral, TN]=1009.8, [neutral, FP]=16.2, [negative, TN]=727.4}
+Macro F1 -- 0.8139041141165
+Macro Precision -- 0.8531465171381607
+Macro Recall -- 0.7941454157767518
+Micro F1 -- {negative=0.8382049732874011, neutral=0.7527285924208087, positive=0.8507787766412902}
+Micro Precision -- {negative=0.8700615287197582, neutral=0.904014033571684, positive=0.7853639891230395}
+Micro Recall -- {negative=0.8087626185589524, neutral=0.6454461010295094, positive=0.9282275277417936}
